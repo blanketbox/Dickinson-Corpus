@@ -1,0 +1,1 @@
+cwb-encode -d /Users/Amy_1/Desktop/Corpus/data/dickenson -c utf8  -f /Users/Amy_1/Desktop/Dickinson/dickinson.vrt -R /usr/local/share/cwb/registry/dickinson -P pos -P class -P lemma -S l:0 -S series:0+id+url -S poem:0+id+publisher+year+editor+title
